@@ -1,0 +1,16 @@
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\bin\Debug\DepoStokTakip.exe.config
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\bin\Debug\DepoStokTakip.exe
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\bin\Debug\DepoStokTakip.pdb
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.exe
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.pdb
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.FormLogin.resources
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.FormAdmin.resources
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.FormPersonel.resources
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.FormKullaniciYonet.resources
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.FormStokGuncelle.resources
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.FormUrunEkle.resources
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.FormUrunListele.resources
+C:\Users\EXCALIBUR\Desktop\DepoStokTakip\DepoStokTakip\DepoStokTakip\obj\Debug\DepoStokTakip.FormUrunSil.resources
